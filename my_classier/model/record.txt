@@ -1,0 +1,10 @@
+mobilenet_v2        0.980
+xception            0.976
+densenet121         0.983
+se_resnet50         0.989
+inceptionresnetv2   0.983
+polynet             0.978
+dpn68               0.975
+senet154            0.983
+resnet18            0.981
+se_resnext50_32x4d  0.988
